@@ -17,7 +17,7 @@ foundryup
 Clone the repo and run tests:
 
 ```bash
-git clone https://github.com/Alpy16/alpy-token.git
+git clone https://github.com/Alpy16/AlpyToken.git
 cd alpy-token
 forge install
 forge test -vvvv
